@@ -20,7 +20,7 @@ El tablero empieza en gris y cada que un tablero es ganado se convierte en el co
 
 Ejemplo de la inferfaz.
 
-![Ejemplo de la interfaz](https://github.com/an-rivas//ultimate_tic_tac_toe/blob/main/images/tictactoe-rules2.jpg)
+![Ejemplo de la interfaz](https://github.com/an-rivas//ultimate_tic_tac_toe/blob/main/tictactoe-rules2.png)
 
 ## Extras
 
