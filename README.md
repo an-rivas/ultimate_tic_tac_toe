@@ -18,7 +18,7 @@ Se trata de una variante con mayor dificultad del Gato tradicional. Incluye 9 ta
 
 El tablero empieza en gris y cada que un tablero es ganado se convierte en el color del ganador.
 
-Ejemplo de la inferfaz.
+Ejemplo de la inferfaz que no es partida con IA.
 
 ![Ejemplo de la interfaz](https://github.com/an-rivas//ultimate_tic_tac_toe/blob/main/tictactoe-rules2.png)
 
